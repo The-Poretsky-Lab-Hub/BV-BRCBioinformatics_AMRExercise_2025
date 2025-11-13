@@ -1,6 +1,6 @@
 # BV-BRC Bioinformatics: Exploring Antimicrobial Resistance in Wild and Domestic Animal Populations
 This is the repo for the above bioinformatic exercise implemented at the University of Illinois at Chicago during the Spring 2025 semester. 
-This exercise is the basisfor the following published manuscript. 
+This exercise is the basis for the following published manuscript. 
 
 ## Manuscript 
 
