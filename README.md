@@ -6,7 +6,7 @@ This exercise is the basis for the following published manuscript.
 
 **TBD**
 
-## Script Inventory
+## Repo Inventory
 1. [Exercise Documents](Exercise_Documents/)
 2. [Scripts](Scripts/)
    
